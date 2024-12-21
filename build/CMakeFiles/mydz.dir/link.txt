@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mydz.dir/main.cpp.o CMakeFiles/mydz.dir/PipeManager.cpp.o CMakeFiles/mydz.dir/guandao.cpp.o CMakeFiles/mydz.dir/bengzhan.cpp.o CMakeFiles/mydz.dir/Graph.cpp.o CMakeFiles/mydz.dir/jianmo.cpp.o -o mydz  -lsome_library 

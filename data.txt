@@ -1,0 +1,9 @@
+PIPE 1 MainPipe 120.5 0 1 2
+PIPE 2 SecondaryPipe 85.3 1 2 3
+PIPE 3 BackupPipe 50.0 0 3 4
+PIPE 4 TestPipe 200.0 1 -1 -1
+
+STATION 1 CentralStation 10 8 0.8
+STATION 2 EastStation 15 12 0.9
+STATION 3 WestStation 20 18 0.9
+STATION 4 BackupStation 5 3 0.6

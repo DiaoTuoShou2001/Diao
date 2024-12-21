@@ -1,0 +1,3 @@
+/home/yingpan/sdb2/c3/c++/dz/build/CMakeFiles/mydz.dir
+/home/yingpan/sdb2/c3/c++/dz/build/CMakeFiles/edit_cache.dir
+/home/yingpan/sdb2/c3/c++/dz/build/CMakeFiles/rebuild_cache.dir
